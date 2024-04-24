@@ -10,6 +10,7 @@ Will be update in upcoming days...
 ```
 
 ### 1. Htop Installation Script:
++ **Download Script: [htop-in.sh](https://github.com/akash2061/Bash-Craft/releases/download/htop/htop-in.sh)**
 ```
 chmod +x htop-in.sh
 ./htop-in.sh
