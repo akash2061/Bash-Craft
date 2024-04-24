@@ -8,3 +8,9 @@ This repository contains some scripts to automate some terminal commands.
 ```
 Will be update in upcoming days...
 ```
+
+### 1. Htop Installation Script:
+```
+chmod +x htop-in.sh
+./htop-in.sh
+```
