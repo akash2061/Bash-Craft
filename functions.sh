@@ -1,12 +1,12 @@
 #!/bin/bash
 
 foo() {
-	echo "Foo from Function... :)"
+	echo "$a - Foo from Function... :)"
 }
 
-for a in {0..5}
+for a in {1..5}
 do 
-	foo
+	foo $a
 	sleep 0.5
 done
 
