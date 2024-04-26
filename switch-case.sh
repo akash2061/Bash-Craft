@@ -10,3 +10,4 @@ echo "5. Ubuntu"
 echo "6. Debian"
 echo "7. Something else...?"
 
+read d
