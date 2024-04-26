@@ -14,7 +14,7 @@ read d
 
 case d in
     echo "Arch is a rolling release."
-    echo ""
+    echo "Black-Arch is a pentesting OS"
     echo ""
     echo ""
     echo ""
