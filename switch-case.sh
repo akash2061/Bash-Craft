@@ -16,7 +16,7 @@ case d in
     echo "Arch is a rolling release."
     echo "BlackArch is a pentesting distribution based on Arch."
     echo "Kali-Linux is a pentesting & hacking linux system."
-    echo ""
+    echo "Parrot-OS is a pentesting & hacking linux system with HTB integrated."
     echo ""
     echo ""
     echo ""
