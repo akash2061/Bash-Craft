@@ -13,7 +13,7 @@ echo "7. Something else...?"
 read d
 
 case d in
-    echo ""
+    echo "Arch is a rolling release."
     echo ""
     echo ""
     echo ""
