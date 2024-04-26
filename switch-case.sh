@@ -19,5 +19,5 @@ case d in
     echo "Parrot-OS is a pentesting & hacking linux system with HTB integrated."
     echo "Ubuntu is a basic user-friendly Destribution for new users."
     echo "Debian is a community destribution."
-    echo ""
+    echo "You didn't exter an appropriate choice."
 esac
