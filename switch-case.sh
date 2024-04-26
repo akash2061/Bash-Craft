@@ -13,5 +13,11 @@ echo "7. Something else...?"
 read d
 
 case d in
-    
+    echo ""
+    echo ""
+    echo ""
+    echo ""
+    echo ""
+    echo ""
+    echo ""
 esac
