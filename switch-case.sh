@@ -18,6 +18,6 @@ case d in
     echo "Kali-Linux is a pentesting & hacking linux system."
     echo "Parrot-OS is a pentesting & hacking linux system with HTB integrated."
     echo "Ubuntu is a basic user-friendly Destribution for new users."
-    echo ""
+    echo "Debian is a community destribution."
     echo ""
 esac
