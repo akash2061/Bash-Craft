@@ -11,3 +11,7 @@ echo "6. Debian"
 echo "7. Something else...?"
 
 read d
+
+case d in
+    
+esac
