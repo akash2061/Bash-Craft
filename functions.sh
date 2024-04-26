@@ -9,4 +9,3 @@ do
 	foo $a
 	sleep 0.5
 done
-
