@@ -13,7 +13,7 @@ echo "7. Something else...?"
 read d
 
 case d in
-    echo "Arch is a rolling release."
+    echo "I use Arch BTW! :)"
     echo "BlackArch is a pentesting distribution based on Arch."
     echo "Kali-Linux is a pentesting & hacking linux system."
     echo "Parrot-OS is a pentesting & hacking linux system with HTB integrated."
