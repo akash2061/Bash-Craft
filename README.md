@@ -16,7 +16,7 @@ chmod +x htop-in.sh
 ./htop-in.sh
 ```
 ### 2. Git Helper Script:
-+ **Download Script: [htop-in.sh](https://github.com/akash2061/Bash-Craft/releases/download/gitc/gitc)**
++ **Download Script: [htop-in.sh](https://github.com/akash2061/Bash-Craft/releases/download/git-helper/gitc)**
 ```
 chmod +x gitc
 ./gitc
