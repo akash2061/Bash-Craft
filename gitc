@@ -3,13 +3,17 @@
 read -p "Name: " name
 read -p "Repository: " repo
 
+echo ""
+
 cmd="git clone https://github.com/'$name'/'$repo'"
 
 eval "$cmd"
 
 if [ $? -eq 0 ]; then
+    echo ""
     echo "Repository cloned successfully."
 else
+    echo ""
     echo "Failed to clone repository."
 fi
 
