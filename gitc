@@ -1,24 +1,15 @@
 #!/bin/bash
 
-# Define color codes
-RED='\[\e[1;31m\]'
-GREEN='\[\e[1;32m\]'
-NC='\[\e[0m\]' # No Color
+read -p "Name: " name
+read -p "Repository: " repo
 
-# Prompt for Name and Repository with colored output
-read -p "${GREEN}Name: ${NC}" name
-read -p "${GREEN}Repository: ${NC}" repo
-
-# Construct the git clone command
 cmd="git clone https://github.com/'$name'/'$repo'"
 
-# Execute the command using eval to handle complex scenarios better
 eval "$cmd"
 
-# Check if the git clone command was successful
 if [ $? -eq 0 ]; then
-    echo -e "${GREEN}Repository cloned successfully.${NC}"
+    echo "Repository cloned successfully."
 else
-    echo -e "${RED}Failed to clone repository.${NC}"
+    echo "Failed to clone repository."
 fi
 
