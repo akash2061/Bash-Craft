@@ -6,7 +6,7 @@ This repository contains some scripts to automate some terminal commands.
 ## Some useful scripts from my Learning Journey:
 
 ```
-Will be update in upcoming days...
+Will be update in upcoming days...!
 ```
 
 ### 1. Htop Installation Script:
