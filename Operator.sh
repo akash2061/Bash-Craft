@@ -12,10 +12,10 @@ echo ""
 
 if [ $a -gt $b -a $a -gt $c ];
 then
-    echo "A is largest Number"
+    echo "$a is largest Number"
 elif [ $b -gt $a  -a $b -gt $c ];
 then
-    echo "B is largest Number"
+    echo "$b is largest Number"
 else
-    echo "C is largest Number"
+    echo "$c is largest Number"
 fi
